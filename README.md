@@ -1,2 +1,8 @@
-# fullstack-authentication-app
-Full Stack Login &amp; Signup System using React.js and Node.js
+Full Stack Login & Signup System
+JavaScript
+React.js
+HTML
+CSS
+Node.js
+Express.js
+MongoDB
