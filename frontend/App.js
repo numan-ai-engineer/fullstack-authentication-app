@@ -6,6 +6,7 @@ function App() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [message, setMessage] = useState('');
+  console.log("Dashboard loaded successfully!");
 
   const handleSubmit = async (e) => {
     e.preventDefault();
