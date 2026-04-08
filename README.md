@@ -1,6 +1,10 @@
 # Fullstack Authentication App
 
 A full-stack Login & Signup system built with React.js, Node.js, Express.js, and MongoDB.
+## Topics & Badges
+![React](https://img.shields.io/badge/React-17.0-blue)
+![Node.js](https://img.shields.io/badge/Node.js-18-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-6.0-brightgreen)
 
 ## Features
 - User registration & login
@@ -9,9 +13,15 @@ A full-stack Login & Signup system built with React.js, Node.js, Express.js, and
 - Responsive design
 
 ## Tech Stack
-- Frontend: React.js, HTML, CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB
+# Backend
+cd backend
+npm install
+npm run dev
+
+# Frontend
+cd frontend
+npm install
+npm start
 
 ## Screenshots
 ![Login Page](link-to-image)
