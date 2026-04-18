@@ -6,6 +6,17 @@ A full-stack Login & Signup system built with React.js, Node.js, Express.js, and
 ![Node.js](https://img.shields.io/badge/Node.js-18-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-brightgreen)
 
+## 🚀 Daily Progress
+
+- Day 8: Fixed backend issues
+- Improved MongoDB connection setup
+- Worked on authentication project
+
+## 🛠 Tech Used
+- Node.js
+- Express
+- MongoDB
+- React
 ## Features
 - User registration & login
 - Password hashing
