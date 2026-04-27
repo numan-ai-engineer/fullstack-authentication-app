@@ -1,5 +1,5 @@
 # Fullstack Authentication App
-A full-stack Login & Signup system built with React.js, Node.js, Express.js, and MongoDB.
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/numan-ai-engineer/fullstack-authentication-app)
 ![GitHub stars](https://img.shields.io/github/stars/numan-ai-engineer/fullstack-authentication-app)
 ![GitHub forks](https://img.shields.io/github/forks/numan-ai-engineer/fullstack-authentication-app)
