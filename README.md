@@ -5,8 +5,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/numan-ai-engineer/fullstack-authentication-app)
 ![GitHub issues](https://img.shields.io/github/issues/numan-ai-engineer/fullstack-authentication-app)
 ![GitHub last commit](https://img.shields.io/github/last-commit/numan-ai-engineer/fullstack-authentication-app)
-
-## Topics & Badges
 ![React](https://img.shields.io/badge/React-17.0-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-18-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-brightgreen)
